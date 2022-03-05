@@ -1,0 +1,288 @@
+/*header*/
+#header{
+	padding:1% 10%  ;
+	background-color: 	#303030;
+}
+#brand{
+	color: yellow;
+	font-weight: bolder;
+	font-size: 2rem;
+}
+#nav-b{
+	color: white;
+}
+
+#nav-b:hover{
+	border-bottom: 1px solid yellow;
+
+}
+
+@media (max-width:995px) 
+{
+
+#nav-b:hover{
+   border-bottom:none;  
+}
+#nav-b:hover{
+	color: yellow;
+}
+
+#icon1,#icon2,#icon3,#icon4{
+	border:2px solid yellow ;
+}
+}
+
+
+	/*header end*/
+
+#title{
+	color: whitesmoke;
+	margin-top: 110px;
+	
+	font-family: Patrick Hand ;
+	font-weight: bold;
+font-size: 3rem; 
+border-left: yellow 8px solid;
+margin-bottom:50px; ;
+}
+#h5{
+	color: #CCCCCC; 
+	margin-top: 40px;
+	font-family: cabin;
+	
+}
+hr{
+	background: yellow; width: 80%;
+}
+
+
+#title-context{
+	text-align: center;
+	margin-top: 70px;
+}
+@media (max-width: 995px){
+#title-context{
+	margin-top: 0px;
+}
+#images-s{
+position: ;
+}
+
+}
+#intro{
+	text-align: center;
+	color: whitesmoke;
+	font-size: 2.5rem;
+	font-family: cabin;
+	font-weight: bold;
+}
+#btn{
+	margin-left: 20px;
+	margin-bottom: 40px;
+}
+#fao{
+	margin-left: 10px;
+	border-radius: 50%;
+	
+	background-color: black;
+	padding: 8px;
+	color:#CCCCCC;
+}
+#fao:hover{
+	background-color: #CCCCCC;
+	color: black;
+}
+
+
+#fafa-t{
+	margin-left: 30px;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 80px;
+	
+}
+/*skill*/
+#skill{
+
+background-color: #26282A;
+color: whitesmoke;
+padding:3% 10%;
+}
+#skill-t{
+	font-family:cabin;
+	font-weight: bold;
+	text-align: center;
+}
+#skills-ro{
+	margin-top: 100px;
+}
+#skill-con2{
+	
+padding-bottom:90px ;
+
+}
+
+
+#p-img1{
+
+border-top: 10px solid yellow;
+border-right: 10px solid yellow;
+padding: 10px;
+float: right;
+position: relative;
+background-color: #E7E9EB;
+
+padding: 10px;
+
+}
+#p-img2{
+border-left: 10px solid yellow;
+border-bottom: 10px solid yellow;
+background-color: #E7E9EB;
+padding: 20px;
+
+position: relative;
+top: 10px;
+right: 10px;
+
+}
+#p-img{
+
+position: relative;
+top:-15px ;
+right:-9px; 
+
+
+}
+#skill-con1{
+	padding: 40px;
+}
+.progress-bar{
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
+}
+.progress{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#our-service{
+	padding: 3% 10%;
+	background-color: #303030;
+	color: whitesmoke;
+	text-align: center;
+
+}
+#service2{
+	
+}
+#h1s{
+	background-color: yellow;
+	padding: 40px;
+	position: relative;
+	top: -110px;
+	color: black;
+	font-family: cabin;
+	font-weight: bold;
+}
+#icon1{
+	border-bottom:5px solid yellow ;
+	border-right: 5px solid yellow;
+}
+#icon2{
+	border-bottom:5px solid yellow ;
+}
+#icon3{
+	border-right: 5px solid yellow;
+}
+			
+
+#icon-6{
+padding: 30px;
+}
+#icon4:hover{
+	background-color: yellow;
+	color: black;
+}
+#icon3:hover{
+	background-color: yellow;
+	color: black;
+}
+#icon2:hover{
+	background-color: yellow;
+	color: black;
+}
+#icon1:hover{
+	background-color: yellow;
+	color: black;
+}
+#service2{
+	margin-top: 20px;
+	font-family: sans-serif;
+}
+/*project*/
+#project{
+	padding: 5% 10%;
+	background-color: #303030; 
+	color :whitesmoke;
+	
+}
+#proj-col{
+	font-family: sans-serif;
+	font-weight: bold;
+}
+#images-s{
+	border: 5px solid yellow;
+}
+#images-s3{
+	margin-top: 90px;
+	position: relative;
+	top:60px ;
+	border: 5px solid yellow;
+}
+#images-s2{
+	margin-top: 90px;
+	position: relative;
+	top:-150px ;
+	border: 5px solid yellow;
+}
+@media (max-width: 995px ){
+#images-s3{
+	top:0px ;
+	margin-top: 0px;
+}
+#images-s2{
+	top: 0px;
+	margin-top: 0px;
+}
+}
+/*team*/
+#teamdetails{
+	background-color: #26282A;
+	color: whitesmoke;
+	font-family: cabin;
+	
+padding: 4% 10%;
+
+}
+.carousel-item{
+	padding: 3% 10%;
+}
+
+#carouselExampleIndicators{
+	margin-top: 100px;
+
+}
+#text{
+	margin-top: 90px;
+}
+em{
+	color: #CCCCCC; 
+}
+footer{
+	text-align: center;
+	padding: 4% 10%;
+	background-color: #26282A;
+	color: #CCCCCC;
+	font-family: patrick hand ;
+}
