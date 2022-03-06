@@ -1,7 +1,7 @@
 /*header*/
 #header{
-	padding:1% 10%  ;
-	background-color: 	#303030;
+	padding:3% 10%  ;
+	background-color: #303030;
 }
 #brand{
 	color: yellow;
@@ -45,6 +45,7 @@ font-size: 3rem;
 border-left: yellow 8px solid;
 margin-bottom:50px; ;
 }
+
 #h5{
 	color: #CCCCCC; 
 	margin-top: 40px;
@@ -63,9 +64,6 @@ hr{
 @media (max-width: 995px){
 #title-context{
 	margin-top: 0px;
-}
-#images-s{
-position: ;
 }
 
 }
@@ -101,6 +99,7 @@ position: ;
 	margin-bottom: 80px;
 	
 }
+
 /*skill*/
 #skill{
 
@@ -109,29 +108,23 @@ color: whitesmoke;
 padding:3% 10%;
 }
 #skill-t{
-	font-family:cabin;
-	font-weight: bold;
+	font-family:Righteous;
+	
 	text-align: center;
 }
 #skills-ro{
 	margin-top: 100px;
 }
-#skill-con2{
-	
+#skill-con2{	
 padding-bottom:90px ;
-
 }
-
-
 #p-img1{
-
 border-top: 10px solid yellow;
 border-right: 10px solid yellow;
 padding: 10px;
 float: right;
 position: relative;
 background-color: #E7E9EB;
-
 padding: 10px;
 
 }
@@ -140,19 +133,14 @@ border-left: 10px solid yellow;
 border-bottom: 10px solid yellow;
 background-color: #E7E9EB;
 padding: 20px;
-
 position: relative;
 top: 10px;
 right: 10px;
-
 }
 #p-img{
-
 position: relative;
 top:-15px ;
 right:-9px; 
-
-
 }
 #skill-con1{
 	padding: 40px;
@@ -173,16 +161,13 @@ right:-9px;
 	text-align: center;
 
 }
-#service2{
-	
-}
 #h1s{
 	background-color: yellow;
 	padding: 40px;
 	position: relative;
 	top: -110px;
 	color: black;
-	font-family: cabin;
+	font-family:Righteous;
 	font-weight: bold;
 }
 #icon1{
@@ -195,8 +180,6 @@ right:-9px;
 #icon3{
 	border-right: 5px solid yellow;
 }
-			
-
 #icon-6{
 padding: 30px;
 }
@@ -260,10 +243,16 @@ padding: 30px;
 #teamdetails{
 	background-color: #26282A;
 	color: whitesmoke;
-	font-family: cabin;
 	
 padding: 4% 10%;
 
+}
+#coro-img{
+border-radius: 50%; margin: 20px;
+width: 280px;
+}
+#coro-col{
+	text-align: center;
 }
 .carousel-item{
 	padding: 3% 10%;
@@ -271,11 +260,13 @@ padding: 4% 10%;
 
 #carouselExampleIndicators{
 	margin-top: 100px;
+	font-family: sans-serif;
 
 }
 #text{
 	margin-top: 90px;
 }
+/**/
 em{
 	color: #CCCCCC; 
 }
@@ -284,5 +275,8 @@ footer{
 	padding: 4% 10%;
 	background-color: #26282A;
 	color: #CCCCCC;
-	font-family: patrick hand ;
+	font-family:patrick hand ;
 }
+
+
+
